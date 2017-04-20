@@ -1,2 +1,3 @@
 # Hello World
-## My Name is Alex Lesinski
+## CIT 281 user page
+![Road cutting through the forest](/images/UserPage-ScreenShot.png)
